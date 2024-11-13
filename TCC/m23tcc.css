@@ -1,0 +1,14 @@
+/*Carola Ponzoni UY027 0018*/
+body{
+	background-color: #6d040a;
+}
+h1,h2,h3,p{
+	font-family:domino,"Domino Regular", serif;
+	color: #ffff00;
+}
+table{
+	margin-left:auto ;
+	margin-right:auto ;
+	border-collapse:collapse;
+	border-width:0px;
+}
